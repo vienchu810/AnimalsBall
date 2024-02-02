@@ -12,8 +12,8 @@ MonoImporter:
   - prefab5: {fileID: 5572499911708194803, guid: 5e575d8ca820f1a4cab79aa9d7de9d19, type: 3}
   - prefab6: {fileID: 5572499911708194803, guid: 90fce6fc943f1d942b5a0c9b168a4f48, type: 3}
   - prefab7: {fileID: 5572499911708194803, guid: 49d2e6ba8859215489ca83c5090aa545, type: 3}
-  - prefab8: {instanceID: 0}
-  - prefab9: {instanceID: 0}
+  - prefab8: {fileID: 5572499911708194803, guid: 3bd79164fbfb3134b8ebbc6ce9f52db5, type: 3}
+  - prefab9: {fileID: 5572499911708194803, guid: ebb1a2a44afb50341abf15d97eb97602, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
